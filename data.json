@@ -1,0 +1,529 @@
+[
+  {
+    "cont":"Think of a bollywood personality in your mind ",
+    "o":1
+  },
+  {
+    "ques":"Is it a male actor ?",
+    "id":1,
+    "y":2,
+    "n":3,
+    "pr":0
+  },
+  {
+    "ques":"his age is above 40 ?",
+    "id":2,
+    "y":4,
+    "n":5,
+    "pr":1
+  },
+  {
+    "ques":"her age is above 35 ?",
+    "id":3,
+    "y":6,
+    "n":7,
+    "pr":1
+  },
+  {
+    "ques":"Does he belongs to Muslim Community  ?",
+    "id":4,
+    "y":8,
+    "n":9,
+    "pr":2
+  },
+  {
+    "ques":"Is he currently Married ?",
+    "id":5,
+    "y":10,
+    "n":11,
+    "pr":2
+  },
+  {
+    "ques":"Is she married with an bollywood actor ?",
+    "id":6,
+    "y":12,
+    "n":13,
+    "pr":3
+  },
+  {
+    "ques":"Had she stared in a Hollywood movie ?",
+    "id":7,
+    "y":14,
+    "n":15,
+    "pr":3
+  },
+  {
+    "ques":"Is he married?",
+    "id":8,
+    "y":17,
+    "n":16,
+    "pr":4
+  },
+  {
+    "ques":"Is he married?",
+    "id":9,
+    "y":19,
+    "n":18,
+    "pr":4
+  },
+  {
+    "ques":"Does he belong to Muslim community ?",
+    "id":10,
+    "y":20,
+    "n":21,
+    "pr":5
+  },
+  {
+    "ques":"His family is Linked with film industry ?",
+    "id":11,
+    "y":22,
+    "n":23,
+    "pr":5
+  },
+  {
+    "ques":"Her family is Linked with film industry?",
+    "id":12,
+    "y":24,
+    "n":25,
+    "pr":6
+  }, {
+  "ques":"Is she also known for her Dancing talent?",
+  "id":13,
+  "y":26,
+  "n":27,
+  "pr":6
+},
+  {
+    "ques":"Had she Starred in a TV Series?",
+    "id":14,
+    "y":28,
+    "n":29,
+    "pr":7
+  },
+  {
+    "ques":"Her family is Linked with film industry?",
+    "id":15,
+    "y":30,
+    "n":31,
+    "pr":7
+  },
+  {
+    "ques":"Were you thinking of Salman Khan?",
+    "id":16,
+    "y":-1,
+    "n":-1,
+    "pr":8
+  },
+  {
+    "ques":"Had he starred in PK?",
+    "id":17,
+    "y":32,
+    "n":33,
+    "pr":8
+  },
+  {
+    "ques":"Were you thinking of Hrithik Roshan?",
+    "id":18,
+    "y":-1,
+    "n":-1,
+    "pr":9
+  },
+  {
+    "ques":"Does he Belong to Bachan Family ?",
+    "id":19,
+    "y":34,
+    "n":35,
+    "pr":9
+  },
+  {
+  "ques":"Were you thinking of Emraan Hashmi ?",
+  "id":20,
+  "y":-1,
+  "n":-1,
+  "pr":10
+},
+  {
+    "ques":"Were you thinking of Shahid Kapoor ?",
+    "id":21,
+    "y":-1,
+    "n":-1,
+    "pr":10
+  },
+  {
+    "ques":"Had he starred in Yeh Jawaani Hai Dewaani ?",
+    "id":22,
+    "y":36,
+    "n":37,
+    "pr":11
+  },
+  {
+    "ques":"Is he divorced ?",
+    "id":23,
+    "y":38,
+    "n":39,
+    "pr":11
+  },
+  {
+    "ques":"Had she starred in a movie with Imraan Khan ?",
+    "id":24,
+    "y":40,
+    "n":41,
+    "pr":12
+  },
+  {
+    "ques":"Was she in rumors to be in relationship with salman khan?",
+    "id":25,
+    "y":42,
+    "n":43,
+    "pr":12
+  },
+  {
+    "ques":"Were you thinking about Madhuri Bikshit?",
+    "id":26,
+    "y":-1,
+    "n":-1,
+    "pr":13
+  },
+  {
+  "ques":"Were you thinking about Vidya Balan ?",
+  "id":27,
+  "y":-1,
+  "n":-1,
+  "pr":13
+},
+  {
+    "ques":"Were you thinking about Priyanka chopra ?",
+    "id":28,
+    "y":-1,
+    "n":-1,
+    "pr":14
+  },
+  {
+    "ques":"Were you thinking about Deepika Padukone ?",
+    "id":29,
+    "y":-1,
+    "n":-1,
+    "pr":14
+  },
+  {
+    "ques":"Had she ever starred in a movie with Salman Khan?",
+    "id":30,
+    "y":45,
+    "n":44,
+    "pr":15
+  },
+  {
+    "ques":"Had she ever starred in a movie with Hrithik Roshan ?",
+    "id":31,
+    "y":46,
+    "n":47,
+    "pr":15
+  },
+  {
+    "ques":"Were you thinkning about Amir khan ?",
+    "id":32,
+    "y":-1,
+    "n":-1,
+    "pr":17
+  },
+  {
+    "ques":"Is he known as king of romance ?",
+    "id":33,
+    "y":48,
+    "n":49,
+    "pr":17
+  },
+  {
+  "ques":"Had he starred in Guru?",
+  "id":34,
+  "y":50,
+  "n":51,
+  "pr":19
+},
+  {
+    "ques":"Had he starred in Housfull ? ",
+    "id":35,
+    "y":52,
+    "n":53,
+    "pr":19
+  },
+  {
+    "ques":"Were you thinking about Ranbir Kapoor?",
+    "id":36,
+    "y":-1,
+    "n":-1,
+    "pr":22
+  },
+  {
+    "ques":"Had he starred in Student Of The Year ?",
+    "id":37,
+    "y":54,
+    "n":55,
+    "pr":22
+  },
+  {
+    "ques":"Were you thinking of Sushant Singh Rajput?",
+    "id":38,
+    "y":-1,
+    "n":-1,
+    "pr":23
+  },
+  {
+    "ques":"Had he starred in Student Of The Year ?",
+    "id":39,
+    "y":57,
+    "n":56,
+    "pr":23
+  },
+  {
+    "ques":"Were you thinking about Kareena Kapoor Khan ?",
+    "id":40,
+    "y":-1,
+    "n":-1,
+    "pr":24
+  },
+  {
+  "ques":"Were you thinking about Kajol?",
+  "id":41,
+  "y":-1,
+  "n":-1,
+  "pr":24
+},
+  {
+    "ques":"Were you thinking about Aishwarya Rai Bachan ?",
+    "id":42,
+    "y":-1,
+    "n":-1,
+    "pr":25
+  },
+  {
+    "ques":"Were you thinking about Bipasha Basu ?",
+    "id":43,
+    "y":-1,
+    "n":-1,
+    "pr":25
+  },
+  {
+    "ques":"Did she debbued in a film with Karan Johar ?",
+    "id":44,
+    "y":58,
+    "n":59,
+    "pr":30
+  },
+  {
+    "ques":"Did she starred in a Biographical film ?",
+    "id":45,
+    "y":60,
+    "n":61,
+    "pr":30
+  },
+  {
+    "ques":"Was she Born in India ?",
+    "id":46,
+    "y":62,
+    "n":63,
+    "pr":31
+  },
+  {
+    "ques":"Is she dating a crickter ?",
+    "id":47,
+    "y":64,
+    "n":65,
+    "pr":31
+  }, {
+  "ques":"Were you thinking about Shah Rukh Khan ?",
+  "id":48,
+  "y":-1,
+  "n":-1,
+  "pr":33
+},
+  {
+    "ques":"Does he have Khan as surname ?",
+    "id":49,
+    "y":66,
+    "n":67,
+    "pr":33
+  },
+  {
+    "ques":"Were you thinking of Abhishek Bachan?",
+    "id":50,
+    "y":-1,
+    "n":-1,
+    "pr":34
+  },
+  {
+    "ques":"Were you thinking of Amitabh Bachan ?",
+    "id":51,
+    "y":-1,
+    "n":-1,
+    "pr":34
+  },
+  {
+    "ques":"Is he Known by title Khiladi ?",
+    "id":52,
+    "y":68,
+    "n":69,
+    "pr":35
+  },
+  {
+    "ques":"Were you thinking of Ajay Devgan ?",
+    "id":53,
+    "y":-1,
+    "n":-1,
+    "pr":35
+  },
+  {
+    "ques":"Were you thinking of Varun Dhavan ?",
+    "id":54,
+    "y":-1,
+    "n":-1,
+    "pr":37
+  }, {
+  "ques":"Were you thinking of Arjun Kapoor ?",
+  "id":55,
+  "y":-1,
+  "n":-1,
+  "pr":37
+}
+, {
+  "ques":"Were you thinking of Ranveer Singh ?",
+  "id":56,
+  "y":-1,
+  "n":-1,
+  "pr":39
+}
+, {
+  "ques":"Were you thinking of Sidharth Malhotra ?",
+  "id":57,
+  "y":-1,
+  "n":-1,
+  "pr":39
+}
+, {
+  "ques":"Were you thinking of Alia Bhat ?",
+  "id":58,
+  "y":-1,
+  "n":-1,
+  "pr":44
+}
+, {
+  "ques":"Were you thinking of Shradha kapoor?",
+  "id":59,
+  "y":-1,
+  "n":-1,
+  "pr":44
+}
+, {
+  "ques":"Were you thinking of Sonam Kapoor ?",
+  "id":60,
+  "y":-1,
+  "n":-1,
+  "pr":45
+}
+, {
+  "ques":"Were you thinking of Sonakshi Sinha ?",
+  "id":61,
+  "y":-1,
+  "n":-1,
+  "pr":45
+}
+, {
+  "ques":"Were you thinking of Kangana Ranaut ?",
+  "id":62,
+  "y":-1,
+  "n":-1,
+  "pr":46
+}
+
+, {
+  "ques":"Were you thinking of Katrina Kaif ?",
+  "id":63,
+  "y":-1,
+  "n":-1,
+  "pr":46
+}
+, {
+  "ques":"Were you thinking of Anushka Sharma ?",
+  "id":64,
+  "y":-1,
+  "n":-1,
+  "pr":47
+}
+, {
+  "ques":"Is she Btech by Qualification ?",
+  "id":65,
+  "y":70,
+  "n":71,
+  "pr":47
+}
+, {
+  "ques":"Were you thinking of Saif Ali Khan ?",
+  "id":66,
+  "y":-1,
+  "n":-1,
+  "pr":49
+}
+, {
+  "ques":"Had he starred in a Biographical Film ?",
+  "id":67,
+  "y":72,
+  "n":73,
+  "pr":49
+}
+, {
+  "ques":"Were you thinking of Akshay Kumar ?",
+  "id":68,
+  "y":-1,
+  "n":-1,
+  "pr":52
+}
+, {
+  "ques":"Were you thinking of Arjun Rampal ?",
+  "id":69,
+  "y":-1,
+  "n":-1,
+  "pr":52
+}
+, {
+  "ques":"Had she starred in the Biopic of M.S. Dhoni ?",
+  "id":70,
+  "y":74,
+  "n":75,
+  "pr":65
+}
+, {
+  "ques":"Were you thinking of Yami Gautam ?",
+  "id":71,
+  "y":-1,
+  "n":-1,
+  "pr":65
+}
+, {
+  "ques":"Were you thinking of Faran Akhtar ?",
+  "id":72,
+  "y":-1,
+  "n":-1,
+  "pr":67
+}
+, {
+  "ques":"Were you thinking of John Abrahim ?",
+  "id":73,
+  "y":-1,
+  "n":-1,
+  "pr":67
+}
+, {
+  "ques":"Were you thinking of Disha Patani ?",
+  "id":74,
+  "y":-1,
+  "n":-1,
+  "pr":70
+}
+, {
+  "ques":"Were you thinking of Kriti Sanon ?",
+  "id":75,
+  "y":-1,
+  "n":-1,
+  "pr":70
+}
+]

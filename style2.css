@@ -1,0 +1,124 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    display: flex;
+    flex-flow: wrap;
+    height: 100vh;
+    width: 100%;
+}
+
+.navi {
+    width: 5%;
+    height: 100%;
+    text-align: center;
+    font-size: 20px;
+    color: #000;
+    font-weight: 500;
+}
+
+.navi div {
+    width: 100%;
+    padding: 2px;
+}
+
+.data {
+    height: 33.33%;
+    font-family: 'Indie Flower', cursive;
+}
+
+.about {
+    background-color: #fced60;
+}
+
+.about > div {
+    margin-top: 15px;
+    padding: 0;
+}
+
+.about div div {
+    height: 14.28%;
+}
+
+.story {
+
+    background-color: #fcca37;
+}
+
+.story > div {
+    margin-top: 15px;
+    padding: 0;
+}
+
+.story div div {
+    height: 14.28%;
+}
+
+.credits {
+    background-color: #fdaa30;
+}
+
+.credits div {
+    height: 14.28%;
+
+}
+
+.cont {
+    width: 95%;
+    height: 100%;
+    overflow-y: auto;
+    margin: 0;
+    background: linear-gradient(to right, #000000, #434343);
+}
+
+
+.cont h1 {
+    width: 100%;
+    text-align: center;
+    font-size: 55px;
+    font-family: 'Indie Flower', cursive;
+    padding: 15px 0;
+    background: linear-gradient(to right, #eb3349, #f45c43);
+    color: #fff;
+}
+
+.cont .quiz {
+    width: 100%;
+    height: auto;
+}
+
+
+.quiz .icons {
+    position: relative;
+    height: 60px;
+    width: 100%;
+    font-size: 40px;
+}
+
+.icons button {
+    position: absolute;
+    height: 60px;
+    width: 60px;
+    font-size: 30px;
+    color: #fff;
+    background-color: #000;
+    top: 40%;
+    transition: all 0.5s Ease-out;
+
+}
+
+.icons button:hover {
+    background: #fff;
+    color: #000;
+}
+
+.icons button:focus {
+    outline: none;
+}
+
+
+
+
